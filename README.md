@@ -46,7 +46,7 @@ This project was designed to showcase modern AI applications for outreach and sa
 <img width="1834" height="879" alt="Screenshot 2025-08-19 114757" src="https://github.com/user-attachments/assets/dd3bd844-c722-4a6b-89f4-bf1e2ba70f5d" />
 
 ## sample email for python developer position
-{
+
 Subject: Experienced Python Developer for Collaboration Opportunities
 
 Dear Hiring Manager,
@@ -67,7 +67,7 @@ Please do not hesitate to contact me to arrange a discussion at your convenience
 Best regards,
 [Your Name]
 
-}
+
 
 
 ## 🛠️ Installation
